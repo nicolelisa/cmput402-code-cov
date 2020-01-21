@@ -45,8 +45,6 @@ jacocoTestReport {
         xml.enabled true
     }
 }
-// TODO: Set jacoco version to be 0.8.5
-// TODO: Enable jacoco test report in xml format
 
 shadowJar {
     mergeServiceFiles()
